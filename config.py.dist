@@ -1,0 +1,9 @@
+class Config:
+    class Yandex:
+        username = 'XXX@yandex.com'
+        password = 'XXX'
+        folder = 'omd'
+
+    class Slack:
+        web_hook_url = 'https://hooks.slack.com/services/TGZNQ68HZ/' \
+                       'XXXXXXXXX/XXXXXXXXXXXXXXXXXXXXXXXX'
